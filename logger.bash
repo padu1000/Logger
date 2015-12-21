@@ -31,7 +31,6 @@ echo "---notes: |"
 
 echo "Please enter the name of your notes"
 read title
-echo "\nStart logging notes.\n"
 
 while [ "$stop" -eq 0 ];
 do
